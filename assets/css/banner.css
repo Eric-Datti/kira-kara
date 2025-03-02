@@ -1,0 +1,13 @@
+.banner__container {
+    padding-top: 57px;
+    background-color: var(--cor-fundo-nav);
+    border-top: 3px solid var(--preto);
+    width: 100vw;
+    height: 190px;
+}
+
+.banner_imagem {
+    width: 100vw;
+    margin-top: 0;
+    margin-bottom: 0;
+}
